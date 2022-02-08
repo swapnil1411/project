@@ -10,7 +10,7 @@ function App() {
 
   anime({
    targets: '.anime',
-   cycles: 1,
+   cycles: 3,
    // translateX: 250,
    // translateY: 250,
    // rotate: 10,
